@@ -96,6 +96,7 @@ def part3():
     plt.legend(loc='upper left')
     plt.show()
 
+    
 q1()
 part1()
 part2()
