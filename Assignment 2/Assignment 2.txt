@@ -1,0 +1,12 @@
+Part A:
+
+Write a general program to compute convolution of 2 sequences x[n] and h[n].
+During the evaluation, any two sequences can be given to check the results
+The program should be general enough to take in both negative and positive indices of n.
+
+
+Part B:
+
+Given to you is a noisy speech signal as a wav file, and a script to read it as a sequence of numbers and write a sequence as a speech file.
+Convolve this speech signal with different Gaussian smoothing filters (also given in a script), and observe the effect of noise reduction.
+Also plot the input and the output speech outputs. 
