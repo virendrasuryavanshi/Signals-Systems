@@ -3,3 +3,8 @@ Part A
 Given a signal compute the Fourier transform of the signal, and display the magnitude and phase plots.
 Note 1: You must write the code for computing the Fourier transform (not use a direct function).
 Note 2: As you would implement this on a digital computer, you would need to discretize the continuous frequency axis. Choose a sufficiently small spacing between frequencies. 
+
+Part B
+
+Given are 3 audio files with bird sounds.
+Using the Fourier transform magnitude, suggest the method to differentiate between the bird songs.
